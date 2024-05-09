@@ -2,7 +2,7 @@
 //Aca importamos la clase que creamos en el archivo personas
 require_once("clases/persona.php");
 //para generar un nuevo objeto con las propiedades dadas en persona creamos una variable y especificamos que es una instancia de la clase ya creada
-                        //ahpra para que ejecute el motodo constructor se pasan puntualmente los datos como van
+                        //ahora para que ejecute el motodo constructor se pasan puntualmente los datos como van
 $persona1 = new persona("ViUdA NeGra", "Johanson", 300);
 
 //para verificar si funciona aca pedimos que imprima la estructura de ese objeto

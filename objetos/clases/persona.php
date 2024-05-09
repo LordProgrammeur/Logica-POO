@@ -5,7 +5,7 @@ class persona
     //Los objetos tienen propiedades, aca definimos que la propiedad de este objeto es publico
     public $nombre, $apellido, $edad;
 
-    //A los objetos de le pueden dar condiciones o metodos, por ejemplo: para que el usuario no llene los datos de manera incorrecta
+    //A los objetos de se pueden dar condiciones o metodos, por ejemplo: para que el usuario no llene los datos de manera incorrecta
     //para almacenar informacion que remplace una propiedad se usa el seter
                     //se le pone set a datos que van a manipular
     //metodo constructor
